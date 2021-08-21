@@ -1,7 +1,6 @@
 ## Welcome to Kirk's GitHub Pages
-
 ### Contact Info
-<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png"/>
+[<img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png">](mailto:kasarrine@gmail.com)[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">](https://www.linkedin.com/in/kasarrine/)
 - - -
 **The following is a collection of programs and scripts that I've written for personal and school projects**
 - - -
