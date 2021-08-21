@@ -17,7 +17,6 @@ Linkedin: [linkedin.com/in/kasarrine](https://www.linkedin.com/in/kasarrine/)
 > Also created a separate Admin GUI for candidates to be added to a ballot.
 >
 
-<br><br/>
 **Joker's Wild:** [github.com/kasarrine/voterproject](https://github.com/kasarrine/voterproject)\
 *Video Demo*: [youtu.be/42fKvHyLmk0](https://youtu.be/42fKvHyLmk0)
 > 
