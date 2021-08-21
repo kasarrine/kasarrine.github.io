@@ -1,4 +1,3 @@
-## Welcome to Kirk's GitHub Pages
 ### Contact Info
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">](https://www.linkedin.com/in/kasarrine/)[<img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png">](mailto:kasarrine@gmail.com)
 - - -
