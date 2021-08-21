@@ -15,7 +15,7 @@
 >
 
 **Joker's Wild:** [github.com/kasarrine/voterproject](https://github.com/kasarrine/voterproject)\
-*Video Demo*: [youtu.be/42fKvHyLmk0](https://youtu.be/42fKvHyLmk0)
+*Video Demo*: [youtu.be/42fKvHyLmk0](https://youtu.be/42fKvHyLmk0?t=1584)
 > 
 > Group Project for Advanced Java.\
 > Created a program that allows a user to play a modified version of Poker against the dealer (computer).\
