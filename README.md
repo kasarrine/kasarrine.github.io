@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to Kirk's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kasarrine/kasarrine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Contact Info
+E-mail: [kasarrine@gmail.com](mailto:kasarrine@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Linkedin: [linkedin.com/in/kasarrine](https://www.linkedin.com/in/kasarrine/) 
+- - -
+**The following is a collection of programs and scripts that I've written for personal and school projects**
+- - -
+### Java
+**Voter Simulation System**: [github.com/kasarrine/voterproject](https://github.com/kasarrine/voterproject)\
+*Video Demo*: [youtu.be/85LGPLAMdiY](youtu.be/85LGPLAMdiY)
+> Senior Group Project for Software Engineering.\
+> The objective was to develop a system for simulating a voting system in the United States
+> that was expandable in the future. Developed a custom backend to be used as a database system, which allowed for multiple databases to
+> be created that stored eligible voter and candidate info. On the frontend, created a custom GUI in Swing for eligible voters to register and vote.
+> Also created a separate Admin GUI for candidates to be added to a ballot.
+>
 
-### Markdown
+<br><br/>
+**Joker's Wild:** [github.com/kasarrine/voterproject](https://github.com/kasarrine/voterproject)\
+*Video Demo*: [youtu.be/42fKvHyLmk0](https://youtu.be/42fKvHyLmk0)
+> 
+> Group Project for Advanced Java.\
+> Created a program that allows a user to play a modified version of Poker against the dealer (computer).\
+> I wrote the backend logic, the GUI in JavaFX and all of the card animations.
+> 
+- - -
+### Python
+**HomeKit Log Processing**: [github.com/kasarrine/homekit-log-processing](https://github.com/kasarrine/homekit-log-processing)
+> 
+> Personal Project that does some python scripting to process log files for HomeKit errors.
+> The script accomplishes the following tasks:
+> 
+> 1. Combines all log files into one unifed file, sorted by timestamp.
+> 2. Counts the number of unique sender occurances in each of the individual logs and outputs to the terminal.
+> 3. Calculates the time it takes to send a ping from one device to another (connected by ID) and outputs the duration to the terminal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kasarrine/kasarrine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- - -
+### C++
+**Simple Shell**: [github.com/kasarrine/simpleshell](https://github.com/kasarrine/simpleshell)
+> 
+> Group Project for Operating Systems.\
+> Created a Linux Shell in C++. 
+- - -
