@@ -24,7 +24,7 @@ Linkedin: [linkedin.com/in/kasarrine](https://www.linkedin.com/in/kasarrine/)
 > Group Project for Advanced Java.\
 > Created a program that allows a user to play a modified version of Poker against the dealer (computer).\
 > I wrote the backend logic, the GUI in JavaFX and all of the card animations.
-> 
+
 - - -
 ### Python
 **HomeKit Log Processing**: [github.com/kasarrine/homekit-log-processing](https://github.com/kasarrine/homekit-log-processing)
