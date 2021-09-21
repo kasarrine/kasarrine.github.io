@@ -1,8 +1,7 @@
 ### Contact Info
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">](https://www.linkedin.com/in/kasarrine/)[<img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png">](mailto:kasarrine@gmail.com)
 - - -
-**Welcome to my Github Portfolio\
-The following is a collection of programs and scripts that I've written for personal and school projects**
+**Welcome to my Github Portfolio. The following is a collection of programs and scripts that I've written for personal and school projects.**
 - - -
 ### Java
 **Voter Simulation System**\
@@ -15,7 +14,7 @@ The following is a collection of programs and scripts that I've written for pers
 > Also created a separate Admin GUI for candidates to be added to a ballot.
 >
 
-**Joker's Wild:**\
+**Joker's Wild**\
 **Link:** [github.com/kasarrine/voterproject](https://github.com/kasarrine/voterproject)\
 **Demo**: [youtu.be/42fKvHyLmk0](https://youtu.be/42fKvHyLmk0?t=1584)
 > 
