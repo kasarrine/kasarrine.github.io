@@ -27,7 +27,7 @@
 **Stock Tools**\
 **Link:** [github.com/kasarrine/stocktools](https://github.com/kasarrine/stocktools)
 > 
-> Personal Project. I wrote these tools as a easy way to calculate financial data on stock tickers by using pubicaly available data, and without having to launch broker software, which in my case is TDA/Thinkorswim.
+> Personal Project. I wrote these tools as a easy way to calculate financial data on stock tickers by using publicly available data, and without having to launch broker software, which in my case is TDA/Thinkorswim.
 > An example script is provided which asks the user in the terminal to enter in a ticker symbol and time period.
 > If the data is available from Yahoo Finance, the script pulls it then calculate the max gain, max loss, average changes and max/low closing prices.
 > I've found this very useful for investing when I want to know these stats within a given timeframe on a particular stock, ETF, index or futures contract.
